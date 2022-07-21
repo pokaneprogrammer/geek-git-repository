@@ -79,3 +79,9 @@ git push
 '''
 git reset --hard
 '''
+
+## Добавили новую ветку
+
+Secondbrench
+'''
+git checkout -b <имя ветки>
