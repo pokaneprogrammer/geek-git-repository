@@ -85,3 +85,10 @@ git reset --hard
 Secondbrench
 '''
 git checkout -b <имя ветки>
+
+Отправили изменения
+
+С помощью команды
+'''
+git push
+'''
