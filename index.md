@@ -92,3 +92,10 @@ git checkout -b <имя ветки>
 '''
 git push
 '''
+
+## Изменить коммит на github
+
+Команда
+'''
+Edit this file
+'''
