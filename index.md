@@ -79,3 +79,23 @@ git push
 '''
 git reset --hard
 '''
+
+## Добавили новую ветку
+
+Secondbrench
+'''
+git checkout -b <имя ветки>
+
+Отправили изменения
+
+С помощью команды
+'''
+git push
+'''
+
+## Изменить коммит на github
+
+Команда
+'''
+Edit this file
+'''
