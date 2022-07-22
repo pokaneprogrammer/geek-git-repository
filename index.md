@@ -99,3 +99,10 @@ git push
 '''
 Edit this file
 '''
+
+## Добавили ветку
+
+Thirdbranch
+'''
+git checkout -b <название ветки>
+'''
